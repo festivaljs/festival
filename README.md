@@ -48,7 +48,7 @@ country 参考下表
 |name|String|必返|节日名称|
 |weekName|Number|必返|星期|
 
-```json
+```
 {
     date: 20220101
     dateName: "2022年01月01日"
