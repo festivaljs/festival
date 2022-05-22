@@ -27,13 +27,12 @@ const res = festival.range(20220101, 20220131);
 
 ```sh
 const festival = new Festival(country);
-
 country 参考下表
+```
 
 |国家名称|国家代码|
 |---|---|
 |中国|chn|
-```
 
 ## RETURN
 
