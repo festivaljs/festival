@@ -26,10 +26,11 @@ const res = festival.range(20220101, 20220131);
 ## PARMAES
 
 ```sh
+const country = "chn";
 const festival = new Festival(country);
-country 参考下表
 ```
 
+## COUNTRY
 |国家名称|国家代码|
 |---|---|
 |中国|chn|
