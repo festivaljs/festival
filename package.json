@@ -1,10 +1,19 @@
 {
   "name": "festival_chn",
-  "version": "2.2.4",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueadmin/festival_chn"
-  }
+    "url": "git+https://github.com/vueadmin/festival_chn.git"
+  },
+  "description": "调休判断",
+  "bugs": {
+    "url": "https://github.com/vueadmin/festival_chn/issues"
+  },
+  "homepage": "https://github.com/vueadmin/festival_chn#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vueadmin"
 }
