@@ -1,0 +1,3652 @@
+[
+  {
+      "date": 20220101,
+      "dateName": "2022年01月01日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": true,
+      "isLegal": true,
+      "name": "元旦",
+      "isRecess": true
+  },
+  {
+      "date": 20220102,
+      "dateName": "2022年01月02日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "元旦",
+      "isRecess": true
+  },
+  {
+      "date": 20220103,
+      "dateName": "2022年01月03日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "元旦",
+      "isRecess": true
+  },
+  {
+      "date": 20220104,
+      "dateName": "2022年01月04日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220105,
+      "dateName": "2022年01月05日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220106,
+      "dateName": "2022年01月06日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220107,
+      "dateName": "2022年01月07日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220108,
+      "dateName": "2022年01月08日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220109,
+      "dateName": "2022年01月09日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220110,
+      "dateName": "2022年01月10日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": true,
+      "isLegal": false,
+      "name": "中国人民警察节",
+      "isRecess": false
+  },
+  {
+      "date": 20220111,
+      "dateName": "2022年01月11日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220112,
+      "dateName": "2022年01月12日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220113,
+      "dateName": "2022年01月13日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220114,
+      "dateName": "2022年01月14日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220115,
+      "dateName": "2022年01月15日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220116,
+      "dateName": "2022年01月16日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220117,
+      "dateName": "2022年01月17日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220118,
+      "dateName": "2022年01月18日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220119,
+      "dateName": "2022年01月19日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220120,
+      "dateName": "2022年01月20日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220121,
+      "dateName": "2022年01月21日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220122,
+      "dateName": "2022年01月22日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220123,
+      "dateName": "2022年01月23日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220124,
+      "dateName": "2022年01月24日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220125,
+      "dateName": "2022年01月25日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220126,
+      "dateName": "2022年01月26日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220127,
+      "dateName": "2022年01月27日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220128,
+      "dateName": "2022年01月28日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220129,
+      "dateName": "2022年01月29日",
+      "isSwap": true,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220130,
+      "dateName": "2022年01月30日",
+      "isSwap": true,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220131,
+      "dateName": "2022年01月31日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220201,
+      "dateName": "2022年02月01日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": true,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220202,
+      "dateName": "2022年02月02日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": true,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220203,
+      "dateName": "2022年02月03日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": true,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220204,
+      "dateName": "2022年02月04日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220205,
+      "dateName": "2022年02月05日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220206,
+      "dateName": "2022年02月06日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "春节",
+      "isRecess": true
+  },
+  {
+      "date": 20220207,
+      "dateName": "2022年02月07日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220208,
+      "dateName": "2022年02月08日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220209,
+      "dateName": "2022年02月09日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220210,
+      "dateName": "2022年02月10日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220211,
+      "dateName": "2022年02月11日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220212,
+      "dateName": "2022年02月12日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220213,
+      "dateName": "2022年02月13日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220214,
+      "dateName": "2022年02月14日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": true,
+      "isLegal": false,
+      "name": "情人节",
+      "isRecess": false
+  },
+  {
+      "date": 20220215,
+      "dateName": "2022年02月15日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": false,
+      "name": "元宵节",
+      "isRecess": false
+  },
+  {
+      "date": 20220216,
+      "dateName": "2022年02月16日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220217,
+      "dateName": "2022年02月17日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220218,
+      "dateName": "2022年02月18日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220219,
+      "dateName": "2022年02月19日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220220,
+      "dateName": "2022年02月20日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220221,
+      "dateName": "2022年02月21日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220222,
+      "dateName": "2022年02月22日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220223,
+      "dateName": "2022年02月23日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220224,
+      "dateName": "2022年02月24日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220225,
+      "dateName": "2022年02月25日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220226,
+      "dateName": "2022年02月26日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220227,
+      "dateName": "2022年02月27日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220228,
+      "dateName": "2022年02月28日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220301,
+      "dateName": "2022年03月01日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220302,
+      "dateName": "2022年03月02日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220303,
+      "dateName": "2022年03月03日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220304,
+      "dateName": "2022年03月04日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "龙头节",
+      "isRecess": false
+  },
+  {
+      "date": 20220305,
+      "dateName": "2022年03月05日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220306,
+      "dateName": "2022年03月06日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220307,
+      "dateName": "2022年03月07日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220308,
+      "dateName": "2022年03月08日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": false,
+      "name": "妇女节",
+      "isRecess": false
+  },
+  {
+      "date": 20220309,
+      "dateName": "2022年03月09日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220310,
+      "dateName": "2022年03月10日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220311,
+      "dateName": "2022年03月11日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220312,
+      "dateName": "2022年03月12日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": true,
+      "isLegal": false,
+      "name": "植树节",
+      "isRecess": false
+  },
+  {
+      "date": 20220313,
+      "dateName": "2022年03月13日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220314,
+      "dateName": "2022年03月14日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220315,
+      "dateName": "2022年03月15日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220316,
+      "dateName": "2022年03月16日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220317,
+      "dateName": "2022年03月17日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220318,
+      "dateName": "2022年03月18日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220319,
+      "dateName": "2022年03月19日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220320,
+      "dateName": "2022年03月20日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220321,
+      "dateName": "2022年03月21日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220322,
+      "dateName": "2022年03月22日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220323,
+      "dateName": "2022年03月23日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220324,
+      "dateName": "2022年03月24日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220325,
+      "dateName": "2022年03月25日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220326,
+      "dateName": "2022年03月26日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220327,
+      "dateName": "2022年03月27日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220328,
+      "dateName": "2022年03月28日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220329,
+      "dateName": "2022年03月29日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220330,
+      "dateName": "2022年03月30日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220331,
+      "dateName": "2022年03月31日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220401,
+      "dateName": "2022年04月01日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "愚人节",
+      "isRecess": false
+  },
+  {
+      "date": 20220402,
+      "dateName": "2022年04月02日",
+      "isSwap": true,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220403,
+      "dateName": "2022年04月03日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "清明节",
+      "isRecess": true
+  },
+  {
+      "date": 20220404,
+      "dateName": "2022年04月04日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "清明节",
+      "isRecess": true
+  },
+  {
+      "date": 20220405,
+      "dateName": "2022年04月05日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": true,
+      "name": "清明节",
+      "isRecess": true
+  },
+  {
+      "date": 20220406,
+      "dateName": "2022年04月06日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220407,
+      "dateName": "2022年04月07日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220408,
+      "dateName": "2022年04月08日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220409,
+      "dateName": "2022年04月09日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220410,
+      "dateName": "2022年04月10日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220411,
+      "dateName": "2022年04月11日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220412,
+      "dateName": "2022年04月12日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220413,
+      "dateName": "2022年04月13日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220414,
+      "dateName": "2022年04月14日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220415,
+      "dateName": "2022年04月15日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220416,
+      "dateName": "2022年04月16日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220417,
+      "dateName": "2022年04月17日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": true,
+      "isLegal": false,
+      "name": "复活节",
+      "isRecess": false
+  },
+  {
+      "date": 20220418,
+      "dateName": "2022年04月18日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220419,
+      "dateName": "2022年04月19日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220420,
+      "dateName": "2022年04月20日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220421,
+      "dateName": "2022年04月21日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220422,
+      "dateName": "2022年04月22日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220423,
+      "dateName": "2022年04月23日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220424,
+      "dateName": "2022年04月24日",
+      "isSwap": true,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220425,
+      "dateName": "2022年04月25日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220426,
+      "dateName": "2022年04月26日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220427,
+      "dateName": "2022年04月27日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220428,
+      "dateName": "2022年04月28日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220429,
+      "dateName": "2022年04月29日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220430,
+      "dateName": "2022年04月30日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "劳动节",
+      "isRecess": true
+  },
+  {
+      "date": 20220501,
+      "dateName": "2022年05月01日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": true,
+      "isLegal": true,
+      "name": "劳动节",
+      "isRecess": true
+  },
+  {
+      "date": 20220502,
+      "dateName": "2022年05月02日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "劳动节",
+      "isRecess": true
+  },
+  {
+      "date": 20220503,
+      "dateName": "2022年05月03日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "劳动节",
+      "isRecess": true
+  },
+  {
+      "date": 20220504,
+      "dateName": "2022年05月04日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "劳动节",
+      "isRecess": true
+  },
+  {
+      "date": 20220505,
+      "dateName": "2022年05月05日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220506,
+      "dateName": "2022年05月06日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220507,
+      "dateName": "2022年05月07日",
+      "isSwap": true,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220508,
+      "dateName": "2022年05月08日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": true,
+      "isLegal": false,
+      "name": "母亲节",
+      "isRecess": false
+  },
+  {
+      "date": 20220509,
+      "dateName": "2022年05月09日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220510,
+      "dateName": "2022年05月10日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220511,
+      "dateName": "2022年05月11日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220512,
+      "dateName": "2022年05月12日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": true,
+      "isLegal": false,
+      "name": "护士节",
+      "isRecess": false
+  },
+  {
+      "date": 20220513,
+      "dateName": "2022年05月13日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220514,
+      "dateName": "2022年05月14日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220515,
+      "dateName": "2022年05月15日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220516,
+      "dateName": "2022年05月16日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220517,
+      "dateName": "2022年05月17日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220518,
+      "dateName": "2022年05月18日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220519,
+      "dateName": "2022年05月19日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220520,
+      "dateName": "2022年05月20日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220521,
+      "dateName": "2022年05月21日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220522,
+      "dateName": "2022年05月22日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220523,
+      "dateName": "2022年05月23日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220524,
+      "dateName": "2022年05月24日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220525,
+      "dateName": "2022年05月25日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220526,
+      "dateName": "2022年05月26日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220527,
+      "dateName": "2022年05月27日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220528,
+      "dateName": "2022年05月28日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220529,
+      "dateName": "2022年05月29日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220530,
+      "dateName": "2022年05月30日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220531,
+      "dateName": "2022年05月31日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220601,
+      "dateName": "2022年06月01日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": true,
+      "isLegal": false,
+      "name": "儿童节",
+      "isRecess": false
+  },
+  {
+      "date": 20220602,
+      "dateName": "2022年06月02日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220603,
+      "dateName": "2022年06月03日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": true,
+      "name": "端午节",
+      "isRecess": true
+  },
+  {
+      "date": 20220604,
+      "dateName": "2022年06月04日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "端午节",
+      "isRecess": true
+  },
+  {
+      "date": 20220605,
+      "dateName": "2022年06月05日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "端午节",
+      "isRecess": true
+  },
+  {
+      "date": 20220606,
+      "dateName": "2022年06月06日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220607,
+      "dateName": "2022年06月07日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220608,
+      "dateName": "2022年06月08日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220609,
+      "dateName": "2022年06月09日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220610,
+      "dateName": "2022年06月10日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220611,
+      "dateName": "2022年06月11日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220612,
+      "dateName": "2022年06月12日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220613,
+      "dateName": "2022年06月13日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220614,
+      "dateName": "2022年06月14日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220615,
+      "dateName": "2022年06月15日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220616,
+      "dateName": "2022年06月16日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220617,
+      "dateName": "2022年06月17日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220618,
+      "dateName": "2022年06月18日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220619,
+      "dateName": "2022年06月19日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": true,
+      "isLegal": false,
+      "name": "父亲节",
+      "isRecess": false
+  },
+  {
+      "date": 20220620,
+      "dateName": "2022年06月20日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220621,
+      "dateName": "2022年06月21日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220622,
+      "dateName": "2022年06月22日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220623,
+      "dateName": "2022年06月23日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220624,
+      "dateName": "2022年06月24日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220625,
+      "dateName": "2022年06月25日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220626,
+      "dateName": "2022年06月26日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220627,
+      "dateName": "2022年06月27日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220628,
+      "dateName": "2022年06月28日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220629,
+      "dateName": "2022年06月29日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220630,
+      "dateName": "2022年06月30日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220701,
+      "dateName": "2022年07月01日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "建党节",
+      "isRecess": false
+  },
+  {
+      "date": 20220702,
+      "dateName": "2022年07月02日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220703,
+      "dateName": "2022年07月03日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220704,
+      "dateName": "2022年07月04日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220705,
+      "dateName": "2022年07月05日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220706,
+      "dateName": "2022年07月06日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220707,
+      "dateName": "2022年07月07日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220708,
+      "dateName": "2022年07月08日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220709,
+      "dateName": "2022年07月09日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220710,
+      "dateName": "2022年07月10日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220711,
+      "dateName": "2022年07月11日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220712,
+      "dateName": "2022年07月12日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220713,
+      "dateName": "2022年07月13日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220714,
+      "dateName": "2022年07月14日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220715,
+      "dateName": "2022年07月15日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220716,
+      "dateName": "2022年07月16日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220717,
+      "dateName": "2022年07月17日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220718,
+      "dateName": "2022年07月18日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220719,
+      "dateName": "2022年07月19日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220720,
+      "dateName": "2022年07月20日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220721,
+      "dateName": "2022年07月21日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220722,
+      "dateName": "2022年07月22日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220723,
+      "dateName": "2022年07月23日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220724,
+      "dateName": "2022年07月24日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220725,
+      "dateName": "2022年07月25日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220726,
+      "dateName": "2022年07月26日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220727,
+      "dateName": "2022年07月27日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220728,
+      "dateName": "2022年07月28日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220729,
+      "dateName": "2022年07月29日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220730,
+      "dateName": "2022年07月30日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220731,
+      "dateName": "2022年07月31日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220801,
+      "dateName": "2022年08月01日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": true,
+      "isLegal": false,
+      "name": "建军节",
+      "isRecess": false
+  },
+  {
+      "date": 20220802,
+      "dateName": "2022年08月02日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220803,
+      "dateName": "2022年08月03日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220804,
+      "dateName": "2022年08月04日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": true,
+      "isLegal": false,
+      "name": "七夕节",
+      "isRecess": false
+  },
+  {
+      "date": 20220805,
+      "dateName": "2022年08月05日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220806,
+      "dateName": "2022年08月06日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220807,
+      "dateName": "2022年08月07日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220808,
+      "dateName": "2022年08月08日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220809,
+      "dateName": "2022年08月09日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220810,
+      "dateName": "2022年08月10日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220811,
+      "dateName": "2022年08月11日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220812,
+      "dateName": "2022年08月12日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "中元节",
+      "isRecess": false
+  },
+  {
+      "date": 20220813,
+      "dateName": "2022年08月13日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220814,
+      "dateName": "2022年08月14日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220815,
+      "dateName": "2022年08月15日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220816,
+      "dateName": "2022年08月16日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220817,
+      "dateName": "2022年08月17日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220818,
+      "dateName": "2022年08月18日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220819,
+      "dateName": "2022年08月19日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "中国医师节",
+      "isRecess": false
+  },
+  {
+      "date": 20220820,
+      "dateName": "2022年08月20日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220821,
+      "dateName": "2022年08月21日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220822,
+      "dateName": "2022年08月22日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220823,
+      "dateName": "2022年08月23日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220824,
+      "dateName": "2022年08月24日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220825,
+      "dateName": "2022年08月25日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220826,
+      "dateName": "2022年08月26日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220827,
+      "dateName": "2022年08月27日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220828,
+      "dateName": "2022年08月28日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220829,
+      "dateName": "2022年08月29日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220830,
+      "dateName": "2022年08月30日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220831,
+      "dateName": "2022年08月31日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220901,
+      "dateName": "2022年09月01日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220902,
+      "dateName": "2022年09月02日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220903,
+      "dateName": "2022年09月03日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220904,
+      "dateName": "2022年09月04日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220905,
+      "dateName": "2022年09月05日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220906,
+      "dateName": "2022年09月06日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220907,
+      "dateName": "2022年09月07日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220908,
+      "dateName": "2022年09月08日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220909,
+      "dateName": "2022年09月09日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220910,
+      "dateName": "2022年09月10日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": true,
+      "isLegal": true,
+      "name": "中秋节",
+      "isRecess": true
+  },
+  {
+      "date": 20220911,
+      "dateName": "2022年09月11日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "中秋节",
+      "isRecess": true
+  },
+  {
+      "date": 20220912,
+      "dateName": "2022年09月12日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "中秋节",
+      "isRecess": true
+  },
+  {
+      "date": 20220913,
+      "dateName": "2022年09月13日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220914,
+      "dateName": "2022年09月14日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220915,
+      "dateName": "2022年09月15日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220916,
+      "dateName": "2022年09月16日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220917,
+      "dateName": "2022年09月17日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220918,
+      "dateName": "2022年09月18日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220919,
+      "dateName": "2022年09月19日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220920,
+      "dateName": "2022年09月20日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220921,
+      "dateName": "2022年09月21日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220922,
+      "dateName": "2022年09月22日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220923,
+      "dateName": "2022年09月23日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "中国农民丰收节",
+      "isRecess": false
+  },
+  {
+      "date": 20220924,
+      "dateName": "2022年09月24日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220925,
+      "dateName": "2022年09月25日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220926,
+      "dateName": "2022年09月26日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220927,
+      "dateName": "2022年09月27日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220928,
+      "dateName": "2022年09月28日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220929,
+      "dateName": "2022年09月29日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20220930,
+      "dateName": "2022年09月30日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221001,
+      "dateName": "2022年10月01日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": true,
+      "isLegal": true,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221002,
+      "dateName": "2022年10月02日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": true,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221003,
+      "dateName": "2022年10月03日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": true,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221004,
+      "dateName": "2022年10月04日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221005,
+      "dateName": "2022年10月05日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221006,
+      "dateName": "2022年10月06日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221007,
+      "dateName": "2022年10月07日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "国庆节",
+      "isRecess": true
+  },
+  {
+      "date": 20221008,
+      "dateName": "2022年10月08日",
+      "isSwap": true,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221009,
+      "dateName": "2022年10月09日",
+      "isSwap": true,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221010,
+      "dateName": "2022年10月10日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221011,
+      "dateName": "2022年10月11日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221012,
+      "dateName": "2022年10月12日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221013,
+      "dateName": "2022年10月13日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221014,
+      "dateName": "2022年10月14日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221015,
+      "dateName": "2022年10月15日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221016,
+      "dateName": "2022年10月16日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221017,
+      "dateName": "2022年10月17日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221018,
+      "dateName": "2022年10月18日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221019,
+      "dateName": "2022年10月19日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221020,
+      "dateName": "2022年10月20日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221021,
+      "dateName": "2022年10月21日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221022,
+      "dateName": "2022年10月22日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221023,
+      "dateName": "2022年10月23日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221024,
+      "dateName": "2022年10月24日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221025,
+      "dateName": "2022年10月25日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": false,
+      "name": "寒衣节",
+      "isRecess": false
+  },
+  {
+      "date": 20221026,
+      "dateName": "2022年10月26日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221027,
+      "dateName": "2022年10月27日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221028,
+      "dateName": "2022年10月28日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221029,
+      "dateName": "2022年10月29日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221030,
+      "dateName": "2022年10月30日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221031,
+      "dateName": "2022年10月31日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221101,
+      "dateName": "2022年11月01日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221102,
+      "dateName": "2022年11月02日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221103,
+      "dateName": "2022年11月03日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221104,
+      "dateName": "2022年11月04日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221105,
+      "dateName": "2022年11月05日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221106,
+      "dateName": "2022年11月06日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221107,
+      "dateName": "2022年11月07日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221108,
+      "dateName": "2022年11月08日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": true,
+      "isLegal": false,
+      "name": "下元节",
+      "isRecess": false
+  },
+  {
+      "date": 20221109,
+      "dateName": "2022年11月09日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221110,
+      "dateName": "2022年11月10日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221111,
+      "dateName": "2022年11月11日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221112,
+      "dateName": "2022年11月12日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221113,
+      "dateName": "2022年11月13日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221114,
+      "dateName": "2022年11月14日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221115,
+      "dateName": "2022年11月15日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221116,
+      "dateName": "2022年11月16日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221117,
+      "dateName": "2022年11月17日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": true,
+      "isLegal": false,
+      "name": "大学生节",
+      "isRecess": false
+  },
+  {
+      "date": 20221118,
+      "dateName": "2022年11月18日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221119,
+      "dateName": "2022年11月19日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221120,
+      "dateName": "2022年11月20日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221121,
+      "dateName": "2022年11月21日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221122,
+      "dateName": "2022年11月22日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221123,
+      "dateName": "2022年11月23日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221124,
+      "dateName": "2022年11月24日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": true,
+      "isLegal": false,
+      "name": "感恩节",
+      "isRecess": false
+  },
+  {
+      "date": 20221125,
+      "dateName": "2022年11月25日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221126,
+      "dateName": "2022年11月26日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221127,
+      "dateName": "2022年11月27日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221128,
+      "dateName": "2022年11月28日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221129,
+      "dateName": "2022年11月29日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221130,
+      "dateName": "2022年11月30日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221201,
+      "dateName": "2022年12月01日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221202,
+      "dateName": "2022年12月02日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221203,
+      "dateName": "2022年12月03日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221204,
+      "dateName": "2022年12月04日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221205,
+      "dateName": "2022年12月05日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221206,
+      "dateName": "2022年12月06日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221207,
+      "dateName": "2022年12月07日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221208,
+      "dateName": "2022年12月08日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221209,
+      "dateName": "2022年12月09日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221210,
+      "dateName": "2022年12月10日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221211,
+      "dateName": "2022年12月11日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221212,
+      "dateName": "2022年12月12日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221213,
+      "dateName": "2022年12月13日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221214,
+      "dateName": "2022年12月14日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221215,
+      "dateName": "2022年12月15日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221216,
+      "dateName": "2022年12月16日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221217,
+      "dateName": "2022年12月17日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221218,
+      "dateName": "2022年12月18日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221219,
+      "dateName": "2022年12月19日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221220,
+      "dateName": "2022年12月20日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221221,
+      "dateName": "2022年12月21日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221222,
+      "dateName": "2022年12月22日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221223,
+      "dateName": "2022年12月23日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221224,
+      "dateName": "2022年12月24日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221225,
+      "dateName": "2022年12月25日",
+      "isSwap": false,
+      "weekName": 7,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221226,
+      "dateName": "2022年12月26日",
+      "isSwap": false,
+      "weekName": 1,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221227,
+      "dateName": "2022年12月27日",
+      "isSwap": false,
+      "weekName": 2,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221228,
+      "dateName": "2022年12月28日",
+      "isSwap": false,
+      "weekName": 3,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221229,
+      "dateName": "2022年12月29日",
+      "isSwap": false,
+      "weekName": 4,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  },
+  {
+      "date": 20221230,
+      "dateName": "2022年12月30日",
+      "isSwap": false,
+      "weekName": 5,
+      "isToday": true,
+      "isLegal": false,
+      "name": "腊八节",
+      "isRecess": false
+  },
+  {
+      "date": 20221231,
+      "dateName": "2022年12月31日",
+      "isSwap": false,
+      "weekName": 6,
+      "isToday": false,
+      "isLegal": false,
+      "name": "非节假日",
+      "isRecess": false
+  }
+]

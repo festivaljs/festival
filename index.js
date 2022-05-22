@@ -1,13 +1,19 @@
-import Y2022 from "./2022";
-import unhappy from "./unhappy";
+class Festival {
+  calendar = [];
+  constructor(country) {
+    const res = require("./" + country + "/index.js");
+    this.calendar = res.default;
+  }
+  judge(date) {
+    return this.calendar.find(item => item.date == date);
+  }
+  range(start, end) {
+    const E = this.calendar.find(item => item.date == start);
+    const S = this.calendar.indexOf(E);
+    const L = end - start + 1;
+    const R = this.calendar.slice(S, L);
+    return R;
+  }
+}
 
-const festival = (date) => {
-  if (unhappy[date]) return unhappy[date];
-  if (Y2022[date]) return Y2022[date];
-  return {
-    name: "正常",
-    type: 1,
-  };
-};
-
-export default festival;
+export default Festival;
