@@ -1,13 +1,13 @@
-## NPM
+# festival_chn
 
-```sh
-npm i festival_chn
+## 介绍
+`festival_chn` 无任何依赖，无需异步请求，满足对日期的假期检测，判断是否为调休日等。可以根据年月日参数返回全部的节假日信息。
+
+## 引入
+`npm i festival_chn`
+
+## 代码演示
 ```
-
-## USE
-```sh
-import Festival from "festival_chn";
-
 const festival = new Festival();
 
 // 以年为单位获取全部的放假调休数据
@@ -31,8 +31,8 @@ const res = festival.isLegal(20220101);
 // 获取假期名称
 const res = festival.name(20220101);
 ```
-## RETURN
 
+## 返回数据格式
 |字段名称|字段类型|说明|
 |---|---|---|
 |date|Number|八位数字组成的年月日|
@@ -44,6 +44,9 @@ const res = festival.name(20220101);
 |year|Number|年|
 |month|Number|月|
 
+## 返回数据示例
+
+### 假期示例
 ```
 {
     date: 20220102
@@ -54,7 +57,10 @@ const res = festival.name(20220101);
     month: 1
     year: 2022
 }
+```
 
+### 调休示例
+```
 {
     "date": 20221009,
     "date_chn": "2022年10月09日",
