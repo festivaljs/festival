@@ -1,10 +1,19 @@
 {
   "name": "festival_chn",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vueadmin/festival_chn"
-  }
+    "url": "git+https://github.com/vueadmin/festival_chn.git"
+  },
+  "description": "## 介绍 `festival_chn` 无任何依赖，无需异步请求，满足对日期的假期检测，判断是否为调休日等。",
+  "bugs": {
+    "url": "https://github.com/vueadmin/festival_chn/issues"
+  },
+  "homepage": "https://github.com/vueadmin/festival_chn#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vueadmin"
 }
