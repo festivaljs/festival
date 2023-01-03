@@ -28,7 +28,7 @@ class Festival {
     })
   }
   invalid(date) {
-    return date > 20221230 || date < 20070101;
+    return date > 20231230 || date < 20070101;
   }
   day(date) {
     return {
