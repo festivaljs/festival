@@ -9,11 +9,16 @@
   <body>
     <script src="./dist/festival.js"></script>
     <script>
-      console.log(Festival.day(20231001))
-      console.log(Festival.name(20231001))
-      console.log(Festival.isHoliday(20231001))
-      console.log(Festival.isLegal(20231001))
-      console.log(Festival.isSwap(20231001))
+      const holidayInfo = Festival.day(20220104)
+      const holidayInfoName = Festival.name(20220104)
+      const isHoliday = Festival.isHoliday(20220104)
+      const isLegal = Festival.isLegal(20220104)
+      const isSwap = Festival.isSwap(20220104)
+      console.log('日期信息 ===>', holidayInfo)
+      console.log('节日名称 ===>', holidayInfoName)
+      console.log('是否为节假日 ===>', isHoliday)
+      console.log('是否为法定假期 ===>', isLegal)
+      console.log('是否为调休日 ===>', isSwap)
     </script>
   </body>
 </html>
