@@ -23,7 +23,7 @@ const res = festival.isHoliday(20220101);
 const res = festival.isLegal(20220101);
 
 // 判断某天是否为调休日
-const res = festival.isUnhappy(20220101);
+const res = festival.isSwap(20220101);
 ```
 
 ## 返回数据格式
