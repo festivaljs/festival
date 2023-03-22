@@ -884,7 +884,7 @@
         result.push(this.getDayInfo(date));
       }
 
-      return result;
+      return result
     }
 
     getLegalHolidaysInRange(start, end) {
@@ -898,7 +898,7 @@
         }
       }
 
-      return result;
+      return result
     }
 
     getSwapHolidaysInRange(start, end) {
@@ -912,7 +912,27 @@
         }
       }
 
-      return result;
+      return result
+    }
+
+    /**
+     * 查询指定日期范围内的假期天数
+     * @param {Date} start 开始日期
+     * @param {Date} end 结束日期
+     * @returns {number} 假期天数
+     */
+    countHolidaysInRange(start, end) {
+      // 限制开始日期和结束日期在节假日定义范围内
+      const startDate = Math.max(start, this.proxy.startDate);
+      const endDate = Math.min(end, this.proxy.endDate);
+      let count = 0;
+      // 计算假期天数
+      for (let date = startDate; date <= endDate; date++) {
+        if (this.getDayInfo(date).isHoliday) {
+          count++;
+        }
+      }
+      return count
     }
   }
 
