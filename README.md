@@ -10,33 +10,35 @@
 ### 浏览器中使用
 ```
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Festival_chn Example</title>
-  <script src="./dist/festival_chn.min.js"></script>
-</head>
-<body>
-  <script>
-    const festival = new Festival_chn();
-    const dayInfo = festival.day(20220101);
-    console.log(dayInfo.name); // "元旦"
-  </script>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Festival_chn Example</title>
+  </head>
+  <body>
+    <script src="./dist/festival.js"></script>
+    <script>
+      const getSwapHolidaysInRange = Festival.getSwapHolidaysInRange(20230101, 20230131)
+      console.log('getSwapHolidaysInRange ===>', getSwapHolidaysInRange)
+    </script>
+  </body>
 </html>
+
 ```
 
 ### 在 Node.js 中使用
 ```
 const { Festival_chn } = require('festival_chn');
-const festival = new Festival_chn();
+const festival = new Festival();
 const dayInfo = festival.day(20220101);
 console.log(dayInfo.name); // "元旦"
 ```
 
 ## 查询某天的节日和假期信息
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const dayInfo = festival.day(20220101);
 console.log(dayInfo);
 
@@ -60,14 +62,14 @@ console.log(dayInfo);
 
 ## 查询某天的假期名称
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const name = festival.name(20220101);
 console.log(name); // "元旦"
 ```
 
 ## 判断某天是否为节日和假期
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const isHoliday = festival.isHoliday(20220101);
 console.log(isHoliday); // true
 
@@ -80,28 +82,28 @@ console.log(isSwap); // false
 
 ## 查询指定日期范围内的假期信息
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const daysInRange = festival.getDaysInRange(20230101, 20230131);
 console.log(daysInRange);
 ```
 
 ## 查询指定日期范围内的法定假日
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const legalHolidays = festival.getLegalHolidaysInRange(20230101, 20230131);
 console.log(legalHolidays);
 ```
 
 ## 查询指定日期范围内的调休日
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const count = festival.getHolidaysInRange(20230101, 20230131);
 console.log(count);
 ```
 
 ## 查询指定日期范围内的假期天数
 ```
-const festival = new Festival_chn();
+const festival = new Festival();
 const count = festival.countHolidaysInRange(20230101, 20230131);
 console.log(count);
 ```
@@ -110,7 +112,7 @@ console.log(count);
 
  - setStartDate(year)：设置数据源的起始年份，默认为 1970。一般情况下不需要调用此方法。
  - setEndDate(year)：设置数据源的终止年份，默认为 2050。一般情况下不需要调用此方法。
-- getDayInfo(date)：查询指定日期的节日和假期信息，与 day 方法相同。
+ - getDayInfo(date)：查询指定日期的节日和假期信息，与 day 方法相同。
 
 ## 数据源
 Festival_chn 内置了中国节日和法定节假日的数据源，其基本来源于互联网上公开的数据。如果你需要更新数据源，可以修改 chn文件夹下的三个文件。
