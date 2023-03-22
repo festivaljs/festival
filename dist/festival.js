@@ -874,6 +874,46 @@
     isSwap(date) {
       return this.isSwapHoliday(Number(date))
     }
+
+    getDaysInRange(start, end) {
+      const result = [];
+      const startDate = Math.max(start, this.proxy.startDate);
+      const endDate = Math.min(end, this.proxy.endDate);
+
+      for (let date = startDate; date <= endDate; date++) {
+        result.push(this.getDayInfo(date));
+      }
+
+      return result;
+    }
+
+    getLegalHolidaysInRange(start, end) {
+      const result = [];
+      const startDate = Math.max(start, this.proxy.startDate);
+      const endDate = Math.min(end, this.proxy.endDate);
+
+      for (let date = startDate; date <= endDate; date++) {
+        if (legalSet.has(date)) {
+          result.push(this.getDayInfo(date));
+        }
+      }
+
+      return result;
+    }
+
+    getSwapHolidaysInRange(start, end) {
+      const result = [];
+      const startDate = Math.max(start, this.proxy.startDate);
+      const endDate = Math.min(end, this.proxy.endDate);
+
+      for (let date = startDate; date <= endDate; date++) {
+        if (swapSet.has(date)) {
+          result.push(this.getDayInfo(date));
+        }
+      }
+
+      return result;
+    }
   }
 
   var index = new Festival();

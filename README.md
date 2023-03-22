@@ -24,6 +24,15 @@ const res = festival.isLegal(20220101);
 
 // 判断某天是否为调休日
 const res = festival.isSwap(20220101);
+
+// 范围时间内的日期信息
+const res = festival.getDaysInRange(20230101, 20230131);
+
+// 范围时间内的法定节假日信息
+const res = festival.getLegalHolidaysInRange(20230101, 20230131);
+
+// 范围时间内的调休日信息
+const res = festival.getHolidaysInRange(20230101, 20230131);
 ```
 
 ## 返回数据格式

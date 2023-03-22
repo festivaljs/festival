@@ -9,16 +9,8 @@
   <body>
     <script src="./dist/festival.js"></script>
     <script>
-      const holidayInfo = Festival.day(20220104)
-      const holidayInfoName = Festival.name(20220104)
-      const isHoliday = Festival.isHoliday(20220104)
-      const isLegal = Festival.isLegal(20220104)
-      const isSwap = Festival.isSwap(20220104)
-      console.log('日期信息 ===>', holidayInfo)
-      console.log('节日名称 ===>', holidayInfoName)
-      console.log('是否为节假日 ===>', isHoliday)
-      console.log('是否为法定假期 ===>', isLegal)
-      console.log('是否为调休日 ===>', isSwap)
+      const getSwapHolidaysInRange = Festival.getSwapHolidaysInRange(20230101, 20230131)
+      console.log('getSwapHolidaysInRange ===>', getSwapHolidaysInRange)
     </script>
   </body>
 </html>
