@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Festival_chn 2.0 测试</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .result { background: #f0f0f0; padding: 10px; margin: 10px 0; border-radius: 4px; }
+        .success { color: #008000; }
+        .error { color: #cc0000; }
+    </style>
+</head>
+<body>
+    <h1>Festival_chn 2.0 浏览器测试</h1>
+    
+    <div id="results"></div>
+    
+    <script src="./dist/festival.umd.min.js"></script>
+    <script>
+        function log(message, isSuccess = true) {
+            const div = document.createElement('div');
+            div.className = 'result ' + (isSuccess ? 'success' : 'error');
+            div.textContent = message;
+            document.getElementById('results').appendChild(div);
+        }
+        
+        try {
+            // 测试基础功能
+            log('✅ 库加载成功');
+            
+            // 测试单日查询
+            const dayInfo = Festival.day(20240101);
+            log(`单日查询 - 2024年元旦: ${dayInfo.name}, 是否节假日: ${dayInfo.isHoliday}`);
+            
+            // 测试范围查询
+            const holidays = Festival.getDaysInRange(20240101, 20240107);
+            log(`范围查询 - 2024年1月1-7日节假日: ${holidays.length}天`);
+            
+            // 测试年度查询
+            const yearHolidays = Festival.getYearHolidays(2024);
+            log(`年度查询 - 2024年总节假日: ${yearHolidays.length}天`);
+            
+            // 测试节假日名称
+            const names = Festival.getHolidayNames();
+            log(`节假日名称 - 共${names.length}种: ${names.slice(0, 3).join(', ')}...`);
+            
+            // 测试数据信息
+            const info = Festival.getDataInfo();
+            log(`数据信息 - 范围: ${info.yearRange.start}-${info.yearRange.end}, 总节假日: ${info.totalHolidays}天`);
+            
+            log('🎉 所有测试通过！');
+            
+        } catch (error) {
+            log(`❌ 测试失败: ${error.message}`, false);
+        }
+    </script>
+</body>
+</html>
